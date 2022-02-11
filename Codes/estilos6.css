@@ -1,0 +1,22 @@
+.video1{
+  width: 400px;
+  height: 280px;
+}
+
+a{
+  font-size:20px;
+  top:25px;
+}
+
+nav i{
+  color: transparent;
+}
+
+#menu{
+  display:block;
+}
+
+nav:hover #menu{
+  display:block;
+}
+
